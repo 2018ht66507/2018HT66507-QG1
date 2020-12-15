@@ -17,10 +17,5 @@
   </dependencies>
   <build>
    <finalName>2018ht66507</finalName>  
-	  <plugin>
-  <groupId>org.jacoco</groupId>
-  <artifactId>jacoco-maven-plugin</artifactId>
-  <version>0.8.7-SNAPSHOT</version>
-</plugin>	  
 	</build>
 </project>
