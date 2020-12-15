@@ -23,10 +23,4 @@
   <build>
    <finalName>2018ht66507</finalName> 
 	</build>
-    <plugins>
-	 <plugin>
-        <groupId>org.jacoco</groupId>
-        <artifactId>jacoco-maven-plugin</artifactId>
-         </plugin> 
-      </plugins>
-</project>
+    </project>
