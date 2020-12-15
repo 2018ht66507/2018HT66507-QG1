@@ -8,7 +8,7 @@ public class 2018ht66507 {
 
         if (name == null || name.trim().length() == 0) {
 
-            result.append(" WILP - Project");
+            result.append("WILP");
 
         } else {
 
